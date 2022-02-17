@@ -7,6 +7,7 @@
 - 📫 How to reach me
   - [LinkedIn](https://www.linkedin.com/in/oluwaseun-aderinlokun/)
   - [Twitter](https://www.twitter.com/oluwaseun_ebene)
+  - [Fiverr](https://www.fiverr.com/o_ebenezer)
 
 <!---
 oluwaseun-ebenezer/oluwaseun-ebenezer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
